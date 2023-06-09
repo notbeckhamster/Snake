@@ -1,2 +1,2 @@
 # Snake
-Java Snake game built in COMP162, unpolished. 
+Basic Java Snake game built while taking my second programmming course COMP162 at Otago, unpolished. 
